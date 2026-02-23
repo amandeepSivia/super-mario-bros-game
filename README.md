@@ -1,4 +1,4 @@
-#Super Mario Bros World Simulator
+# Super Mario Bros World Simulator
 
 Amandeep Sivia
 
